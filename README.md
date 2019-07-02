@@ -6,6 +6,5 @@ This software will rename all files that opened in specific directory to filenam
 recently and rename it too.
 
 ### Instructions:
-1- run the jar file
-2- add the directory that want to rename by copy paste the directory path
-
+ - run the jar file
+ - add the directories that want to rename their files by copy paste the directory path
